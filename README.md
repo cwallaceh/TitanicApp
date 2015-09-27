@@ -3,7 +3,7 @@ The titanic app
 
 The TitanicApp takes the Kaggle public dataset "Titanic: Machine Learning from Disaster"
 
-[a link](https://www.kaggle.com/c/titanic/data)
+[Titanic dataset](https://www.kaggle.com/c/titanic/data)
 
 Uses the most relevant columns to make a classification model for predicting either survival or death of the passenger,
 depending of the characteristics introduced by the user.
